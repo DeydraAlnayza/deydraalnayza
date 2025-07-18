@@ -48,6 +48,7 @@ background: radial-gradient(circle, rgba(41, 41, 94, 1) 0%, rgba(148, 187, 233, 
 
 .deskripsi {
     justify-content: center;
+    margin-top: 2.5cm
     margin-left: 8.5cm;
-    margin-right: 4cm;
+    margin-right: 6cm;
 }
