@@ -42,10 +42,12 @@ background: radial-gradient(circle, rgba(41, 41, 94, 1) 0%, rgba(148, 187, 233, 
 
 .picture {
     height: 400px;
-    margin-top: 1cm;
+    margin-top: 0.3cm;
+    position: absolute;
 }
 
 .deskripsi {
-    Margin top: 3cm;
-    Justify content: center:
+    justify-content: center;
+    margin-left: 8.5cm;
+    margin-right: 4cm;
 }
